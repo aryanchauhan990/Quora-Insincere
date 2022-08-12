@@ -2,6 +2,10 @@
 
 ## Problem Statement
 
+An existential problem for any major website today is how to handle toxic and divisive content. Quora wants to tackle this problem head-on to keep their platform a place where users can feel safe sharing their knowledge with the world.
+
+Quora is a platform that empowers people to learn from each other. On Quora, people can ask questions and connect with others who contribute unique insights and quality answers. A key challenge is to weed out insincere questions -- those founded upon false premises, or that intend to make a statement rather than look for helpful answers
+
 An insincere question is defined as a question intended to make a statement rather than look for helpful answers. Some characteristics that can signify that a question is insincere:
 
 Has a non-neutral tone
@@ -65,4 +69,9 @@ Also available here : https://www.kaggle.com/code/aryanml007/quora-insincere-eda
 
 
 
+## Othe NLP Based Projects Link , please visit and provide your suggestions
+
+Sentiment Analysis From Neespaper Headlines : https://www.kaggle.com/code/aryanml007/sentiment-analysis-using-news-headlines
+Spam or Ham Message Classification Basic Approach : https://www.kaggle.com/code/aryanml007/spam-or-ham-sms-classifier-basic-approach
+Spam or Ham Message Classification Deep Learning Approach : https://www.kaggle.com/code/aryanml007/spam-classifier-deep-learning-approach
 
