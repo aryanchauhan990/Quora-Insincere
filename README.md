@@ -24,6 +24,8 @@ Isn't grounded in reality
  
  ## Dataset View and Analysis
  
+ Kaggle Link of Dataset : https://www.kaggle.com/c/quora-insincere-questions-classification
+ 
   	qid	                             question_text	                      target
 0	00002165364db923c7e6	 How did Quebec nationalists see their province...	 0
 
