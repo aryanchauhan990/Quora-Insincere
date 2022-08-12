@@ -71,7 +71,9 @@ Also available here : https://www.kaggle.com/code/aryanml007/quora-insincere-eda
 
 ## Othe NLP Based Projects Link , please visit and provide your suggestions
 
-Sentiment Analysis From Neespaper Headlines : https://www.kaggle.com/code/aryanml007/sentiment-analysis-using-news-headlines
-Spam or Ham Message Classification Basic Approach : https://www.kaggle.com/code/aryanml007/spam-or-ham-sms-classifier-basic-approach
-Spam or Ham Message Classification Deep Learning Approach : https://www.kaggle.com/code/aryanml007/spam-classifier-deep-learning-approach
+1) Sentiment Analysis From Neespaper Headlines : https://www.kaggle.com/code/aryanml007/sentiment-analysis-using-news-headlines
+
+2) Spam or Ham Message Classification Basic Approach : https://www.kaggle.com/code/aryanml007/spam-or-ham-sms-classifier-basic-approach
+
+3) Spam or Ham Message Classification Deep Learning Approach : https://www.kaggle.com/code/aryanml007/spam-classifier-deep-learning-approach
 
